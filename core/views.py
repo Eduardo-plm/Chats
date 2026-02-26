@@ -21,7 +21,7 @@ class DadosJSONView(BaseLineChartView):
             "setembro",
             "outubro",
             "novembro",
-            "dezembro",
+            "dezembro"
         ]
 
         return labels
